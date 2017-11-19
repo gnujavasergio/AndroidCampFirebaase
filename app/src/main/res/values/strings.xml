@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCampFirebaase</string>
+    <string name="activity_email">Correo Electronico</string>
+    <string name="activity_password">Contraseña</string>
+    <string name="activity_signin">Iniciar Sesión</string>
+    <string name="activity_create">Crear Cuenta</string>
+</resources>
